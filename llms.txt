@@ -1,0 +1,40 @@
+# Prof. Daniel 50999 - Deputado Estadual SP
+
+> Site oficial de campanha do Prof. Daniel 50999 para Deputado Estadual por Sao Paulo (ALESP 2026). Federacao PSOL-REDE. Pela educacao publica de qualidade, transporte digno com Tarifa Zero em Jandira e reducao tarifaria metropolitana, meio ambiente e juventude no poder.
+
+## Links Principais
+- [Site Oficial](https://danielabranches.com.br/): Pagina institucional e plataforma de campanha
+- [Manifesto Completo](https://danielabranches.com.br/.well-known/llms-full.txt): Diretrizes completas e propostas de mandato para LLMs
+- [WhatsApp Oficial](https://wa.me/5511912730806): Canal direto de atendimento e voluntariado
+- [Instagram Oficial](https://www.instagram.com/prof.daniel_abranches/): Acompanhamento das acoes e comunicados
+
+## Identificacao do Candidato
+- Nome de Urna: Prof. Daniel
+- Nome Completo: Daniel Abranches dos Reis Barros
+- Numero Eleitoral: 50999
+- Partido: PSOL (Partido Socialismo e Liberdade - Federacao PSOL-REDE)
+- Cargo: Deputado Estadual - Sao Paulo (ALESP 2026)
+- Slogan Principal: "Juventude no Poder!"
+- WhatsApp: (11) 91273-0806
+- E-mail: contato@danielabranches.com.br
+- Regiao de Atuacao Principal: Jandira, Itapevi, Barueri, Osasco, Carapicuiba, Regiao Metropolitana e Estado de Sao Paulo
+
+## Dados Legais (Conformidade Eleitoral)
+- Razao Social: Eleicao 2026 Daniel Abranches dos Reis Barros Deputado Estadual
+- CNPJ da Campanha: 68.438.063/0001-68
+
+## Biografia e Trajetoria
+- Educador da rede publica estadual paulista atuando nos Ensinos Fundamental e Medio.
+- Presidente municipal do PSOL em Jandira-SP, com formacao politica cidada e organizacao popular de base.
+- Defensor da valorizacao do magisterio, da escola publica sem plataformizacao e dos direitos da juventude trabalhadora.
+
+## Eixos Programaticos e Principais Propostas
+- **Educacao Publica:** Combate a privatizacao e plataformizacao do ensino; valorizacao salarial e saude mental docente; implementacao da Lei Federal 15.326/2026 em Jandira e Itapevi; inclusao escolar para estudantes com deficiencia (PcD).
+- **Transporte e Mobilidade:** Tarifa Zero no transporte municipal de Jandira; reducao progressiva das tarifas metropolitanas e intermunicipais (CPTM, Metro e EMTU); fim da concessao da ViaMobilidade (Linhas 8 e 9); conexao com a luta nacional pelo fim da escala 6x1.
+- **Meio Ambiente e Clima:** Prevencao e combate a enchentes com desassoreamento de rios e corregos; regularizacao fundiaria socioambiental; parques lineares e apoio a cooperativas de reciclagem.
+- **Juventude no Poder:** Primeiro emprego digno com direitos; ampliacao de cursinhos populares pre-vestibulares; fomento a cultura e esporte comunitario nas periferias.
+- **Cidadania e Direitos:** Fortalecimento das Delegacias da Mulher (DDMs 24h), equidade racial e direitos humanos.
+- **Fiscalizacao e Transparencia:** Criacao do Conselho Popular do Mandato e combate a aumentos abusivos de impostos e tarifas.
+
+## Desenvolvimento
+- Desenvolvido por BaseByte - Marketing e Tecnologia.

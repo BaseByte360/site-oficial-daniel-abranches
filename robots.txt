@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Sitemaps e Arquivos de IA (LLMs)
+Sitemap: https://danielabranches.com.br/sitemap.xml
+Allow: /llms.txt
+Allow: /.well-known/llms-full.txt
