@@ -12,10 +12,10 @@
 /*.png
   Cache-Control: public, max-age=31536000, immutable
 
-/*.jpg
+/*.svg
   Cache-Control: public, max-age=31536000, immutable
 
-/*.jpeg
+/*.ico
   Cache-Control: public, max-age=31536000, immutable
 
 /*.css
